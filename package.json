@@ -1,7 +1,7 @@
 {
-  "name": "html-rem",
-  "version": "1.0.0",
-  "description": "fit rem",
+  "name": "page-rem",
+  "version": "0.1.0",
+  "description": "append rem font size to html page",
   "main": "index.ts",
   "scripts": {
     "build": "tsc",
